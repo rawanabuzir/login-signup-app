@@ -1,0 +1,5 @@
+File to import:
+.
+.
+
+the name of the database is:  course
